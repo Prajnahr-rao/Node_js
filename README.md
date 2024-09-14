@@ -12,5 +12,3 @@ A Node.js app for user login, signup, and profile management using MongoDB.
 4. **Start the server**: `npm start`
 5. **Access the app**: Visit `http://localhost:3000`
 
-## License
-MIT License
